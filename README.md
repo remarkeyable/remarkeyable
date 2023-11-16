@@ -12,6 +12,3 @@
 
 
 
-
-<img src="img/a.jpg">
-</kbd>
