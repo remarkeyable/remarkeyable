@@ -7,6 +7,17 @@
   </a>  
 </h1>
 
+<div align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto: ryn_codes@protonmail.com">
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+</a>
+  
+  
+</div>  
+
 
 
 
