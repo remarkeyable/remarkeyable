@@ -9,7 +9,7 @@
 
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=remarkeyable&theme=dark" width="30%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=remarkeyable&theme=dark" width="38%" >
 
 
 
